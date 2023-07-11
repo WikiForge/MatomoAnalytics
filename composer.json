@@ -1,5 +1,5 @@
 {
-	"name": "miraheze/matomo-analytics",
+	"name": "wikiforge/matomo-analytics",
 	"type": "mediawiki-extension",
 	"description": "The MatomoAnalytics extension inserts tracking code for the Matomo analytics platform.",
 	"homepage": "https://www.mediawiki.org/wiki/Extension:MatomoAnalytics",
@@ -16,7 +16,7 @@
 		}
 	],
 	"support": {
-		"issues": "https://phabricator.miraheze.org/tag/matomoanalytics/",
+		"issues": "https://support.wikiforge.net/tag/matomoanalytics/",
 		"wiki": "https://www.mediawiki.org/wiki/Extension:MatomoAnalytics"
 	},
 	"require": {
